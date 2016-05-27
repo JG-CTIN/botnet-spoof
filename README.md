@@ -1,6 +1,6 @@
 # [Botnet Spoofing]
 ### [554 5.7.1 Spoofing Sender]
-#### [Updating once per day]
+#### [Updated every 2~3 hours]
 
 # [Counting 3686 IPs]
 
